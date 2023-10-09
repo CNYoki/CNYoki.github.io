@@ -4,15 +4,15 @@
 
 let mainConfig = {
   vssueConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
+    owner: "CNYoki",
+    repo: "CNYoki.github.io",
     clientId: "2783a4b752f56c0ed912",
     clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
   },
 
   repoConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
+    owner: "CNYoki",
+    repo: "CNYoki.github.io",
     pushBranch: "master",
     email: "yidadaa@qq.com",
     filterUsers: ['Yidadaa']
