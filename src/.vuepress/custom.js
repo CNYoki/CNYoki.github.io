@@ -6,19 +6,19 @@ let mainConfig = {
   vssueConfig: {
     owner: "CNYoki",
     repo: "CNYoki.github.io",
-    clientId: "2783a4b752f56c0ed912",
-    clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
+    clientId: "89da6e2701fa0b09508b",
+    clientSecret: "000ccaa340a7aab3f645188e2c87a09ec7a46875"
   },
 
   repoConfig: {
     owner: "CNYoki",
     repo: "CNYoki.github.io",
-    pushBranch: "source",
-    email: "yidadaa@qq.com",
-    filterUsers: ['Yidadaa']
+    pushBranch: "master",
+    email: "i@yokii.cn",
+    filterUsers: ['Yoki']
   },
 
-  title: "YiFei Zhang's Blog",
+  title: "Yoki@Sin55",
   description: "在这里了解我的一切，对编程的热爱永不停歇。",
   customDomain: "",
   base: "/Issue-Blog-With-Github-Action/",
