@@ -13,7 +13,7 @@ let mainConfig = {
   repoConfig: {
     owner: "CNYoki",
     repo: "CNYoki.github.io",
-    pushBranch: "master",
+    pushBranch: "source",
     email: "yidadaa@qq.com",
     filterUsers: ['Yidadaa']
   },
